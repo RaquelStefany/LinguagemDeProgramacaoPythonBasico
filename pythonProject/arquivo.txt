@@ -1,0 +1,5 @@
+Curso de Python
+Criação de arquivo .txt, utilizando os comandos da linguagem de programação Python.
+
+Curso de Python #2
+Escrevendo em uma arquivo já existente, sem sobrescrever as informações, utilizando os comandos da linguagem de programação Python.
